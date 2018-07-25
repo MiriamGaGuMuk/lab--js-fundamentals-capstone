@@ -20,19 +20,6 @@
 
 
 
-// EXPLORER MODE - PART 2 - Strip the Punctuation
-//-----------------------------
-console.log("[4] Should return 4 for 'needy'");
-console.log("====================================");
-console.log();
-
-console.log("[5] Should return 6 for 'caw'");
-console.log("====================================");
-console.log();
-
-console.log("[6] Should return 2 for 'dead'");
-console.log("====================================");
-console.log();
 
 
 // *~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
